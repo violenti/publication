@@ -202,7 +202,7 @@
                 <DefaultStyle/>
                 <ITEXT FONT="FreeMono Regular" CH="Un registry es un software que nos permite contener las distintas imágenes de Docker. Cada imagen se encuentra dentro de un repositorio el cual está dentro de un registry . La estructura seria registry.com/repositorio/imagen."/>
                 <para ALIGN="3"/>
-                <ITEXT FONT="FreeMono Regular" CH="Hay distintas soluciones que nos da el servicio de registry, tanto públicos como privados. Podemos tener nuestro propio  registry o utliza hub.docker.com, como habia menciado es el más popular pero tiene sus limitaciones como todo producto, a momento de escribir esto solo permite un  repositorio privados en su versión free, pero según el plan contratado varía.    "/>
+                <ITEXT FONT="FreeMono Regular" CH="Hay distintas soluciones que nos da el servicio de registry, tanto públicos como privados. Podemos tener nuestro propio  registry o utliza hub.docker.com, como habia menciado es el más popular pero tiene sus limitaciones como todo producto, a momento de escribir esto solo permite un  repositorios privados en su versión free, pero según el plan contratado varía.    "/>
                 <para ALIGN="3"/>
             </StoryText>
         </PAGEOBJECT>
@@ -233,7 +233,7 @@
                 <ITEXT FONT="FreeMono Regular" CH="$ sudo sh  docker.sh"/>
                 <para ALIGN="3"/>
                 <para ALIGN="3"/>
-                <ITEXT FONT="FreeMono Regular" CH="Esto nos instala segun la version de nuestro S.O la última versión estable de Docker. Para comprobar la versión instalada, solo hace falta ejecutar el siguiente comando:"/>
+                <ITEXT FONT="FreeMono Regular" CH="Esto nos instala según la version de nuestro S.O la última versión estable de Docker. Para comprobar la versión instalada, solo hace falta ejecutar el siguiente comando:"/>
                 <para ALIGN="3"/>
                 <para ALIGN="3"/>
                 <ITEXT FONT="FreeMono Regular" CH="$ sudo docker -- version "/>
@@ -261,7 +261,7 @@
         <PAGEOBJECT XPOS="165.97" YPOS="3728.89" OwnPage="8" ItemID="1164644338" PTYPE="4" WIDTH="466.5" HEIGHT="296.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L466.5 0 L466.5 296.25 L0 296.25 L0 0 Z" copath="M0 0 L466.5 0 L466.5 296.25 L0 296.25 L0 0 Z" gXpos="165.97" gYpos="3728.89" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT FONT="FreeMono Regular" CH="Vamos a correr nuestro primer contenedor, el mismo va está basado en la imagen de alpine y ejecutará un hola mundo y finalizara nuestro container."/>
+                <ITEXT FONT="FreeMono Regular" CH="Vamos a correr nuestro primer contenedor, el mismo va estar basado en la imagen de alpine y ejecutará un hola mundo y finalizará nuestro container."/>
                 <para ALIGN="3"/>
                 <para ALIGN="3"/>
                 <ITEXT FONT="FreeMono Regular" FEATURES="inherit" CH="$ docker run alpine echo &quot;Hola Mundo&quot;"/>
@@ -758,7 +758,7 @@
         <PAGEOBJECT XPOS="780.72" YPOS="111" OwnPage="1" ItemID="1124348642" PTYPE="4" WIDTH="401.25" HEIGHT="322.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.25 0 L401.25 322.5 L0 322.5 L0 0 Z" copath="M0 0 L401.25 0 L401.25 322.5 L0 322.5 L0 0 Z" gXpos="780.72" gYpos="111" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT FONT="FreeMono Regular" CH="Esta publicación fue escrita en marzo de 2020 en Buenos Aires, Argentina. Las imagened usadas son de dominio publico, obtenidas del sitio www.rawpixel.com, las imagenes de los cetáceos son del archivo son originales de"/>
+                <ITEXT FONT="FreeMono Regular" CH="Esta publicación fue escrita en marzo de 2020 en Buenos Aires, Argentina. Las imagenes usadas son de dominio publico, obtenidas del sitio www.rawpixel.com, las imagenes de los cetáceos son del archivo son originales de"/>
                 <ITEXT FONT="FreeMono Regular" FEATURES="inherit shadowed" CH=" Charles Melville Scammon’s &quot;Natural History of the Cetaceans and other Marine Mammals of the Western Coast of North America&quot; (1872)"/>
                 <ITEXT FONT="FreeMono Regular" CH=" y la imagen del pinguino "/>
                 <ITEXT FONT="FreeMono Regular" FEATURES="inherit shadowed" CH="Vintage Victorian style penguins engraving. Original from the British Library"/>
